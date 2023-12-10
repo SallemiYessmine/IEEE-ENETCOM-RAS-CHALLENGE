@@ -11,3 +11,5 @@ In this program, python image processing is used to detect and constantly monito
  - OpenCV installed for python
  - Numpy for python
  - If both criteria's are met, then just `python detect.py`, also make sure a camera is connected to PC.
+
+**demo link** https://drive.google.com/drive/folders/1Bv6ToPeWdHnunZCCtgRX1uQBJhOzk8oK?usp=sharing
